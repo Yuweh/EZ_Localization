@@ -1,0 +1,20 @@
+/* 
+  Localization.strings
+  EZ_Localization
+
+  Created by Francis Jemuel Bergonia on 12/15/19.
+  Copyright © 2019 Francis Jemuel Bergonia. All rights reserved.
+*/
+
+"title" = "Title";
+"info" = "情報";
+"to_buy" = "購入";
+"hard_cover" = "ハードカバー";
+"digital" = "デジタル";
+"paperback" = "ペーパーバック";
+"nav_bar_title" = "例-英語";
+"left_bar_item" = "左のアイテム";
+"right_bar_item" = "右アイテム";
+"tab_1" = "タブ1";
+"tab_2" = "タブ2";
+"delivery_message" = "配達員へのメッセージ";
